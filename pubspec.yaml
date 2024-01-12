@@ -1,0 +1,243 @@
+name: htp_customer
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.1.3+12
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  flutter_riverpod: ^2.1.1
+  dio: ^5.3.0
+#  firebase_storage: ^11.0.10
+#  animated_toggle_switch: ^0.6.1
+#  country_list_pick: ^1.0.1+6
+#  dob_input_field: ^2.0.0
+#  dropdown_textfield: ^1.0.7
+  dropdown_search: ^5.0.6
+  country_pickers: ^2.0.0
+  otp_text_field: ^1.1.3
+  firebase_auth: ^4.9.0
+#  country_state_city_picker: ^1.2.8
+  file_picker: ^5.2.5
+  firebase_core: ^2.19.0
+  google_sign_in: ^5.4.4
+  firebase_phone_auth_handler: ^1.0.8
+  flutter_facebook_auth: ^5.0.11
+  intl: ^0.18.0
+  flutter_svg: ^1.1.6
+#  syncfusion_flutter_datepicker: ^20.4.52
+#  csc_picker: ^0.2.7
+  google_maps_flutter: ^2.2.5
+  sign_in_with_apple: ^5.0.0
+  crypto: ^3.0.2
+  cloud_firestore: ^4.4.4
+  geolocator: ^9.0.2
+  share_plus: ^6.3.1
+  camera: ^0.10.4
+  image_picker: ^0.8.7
+  flutter_typeahead: ^4.3.7
+  json_annotation: ^4.8.1
+#  firebase_ui_firestore: ^1.2.10
+  shared_preferences: ^2.2.0
+  change_case: ^1.1.0
+  shimmer: ^2.0.0
+  url_launcher: ^6.1.14
+  firebase_messaging: ^14.7.3
+  flutter_local_notifications: ^15.1.1
+  firebase_dynamic_links: ^5.4.1
+#  freshchat_sdk: ^0.10.8
+  pinput: ^3.0.1
+  map_launcher: ^2.5.0+1
+  video_player: ^2.8.1
+  bottom_sheet: ^4.0.0
+  weekday_selector: ^1.1.0
+  path_provider: ^2.1.1
+  package_info_plus: ^3.1.2
+  flutter_markdown: ^0.6.17+3
+  permission_handler: ^11.0.0
+  stories_page_view: ^0.0.5
+  connectivity_plus: ^4.0.2
+  flutter_branch_sdk: ^6.8.0
+  firebase_analytics: ^10.6.1
+  firebase_crashlytics: ^3.4.1
+  uuid: ^3.0.6
+
+  # flutter_better_camera: ^1.0.3
+
+# Packages used for testing
+#  fake_cloud_firestore: ^2.4.1+1
+#  firebase_auth_mocks: ^0.12.0
+#  google_sign_in_mocks: ^0.2.2
+#  mocktail: ^1.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  custom_lint: ^0.5.3
+  riverpod_lint: ^2.2.1
+  build_runner: ^2.4.6
+  json_serializable: ^6.6.0
+  flutter_native_splash: ^2.2.19
+
+#  firebase_storage_mocks: ^0.6.1
+
+
+flutter_native_splash:
+  color: "#000000"
+#  image: assets/party_one_bottom.png
+  android_12:
+    color: "#000000"
+#    image: assets/party_one_bottom.png
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/final_splash/
+    - assets/images/temp/
+    - assets/images/icons/
+    - assets/images/coming_soon/
+    - assets/svg/bottom_nav/
+    - assets/svg/notification_icons/
+    - assets/svg/icons/profile/
+    - assets/svg/icons/my_bookings/
+    - assets/svg/icons/support/
+    - assets/images/placeholders/
+    - assets/images/placeholders/loyalty_points/
+    - assets/images/placeholders/membership_cards/
+    - assets/images/placeholders/membership_cards/new/
+    - assets/svg/logos/
+    - assets/svg/icons/
+    - assets/svg/images/
+    - assets/svg/images/membership/
+    - assets/svg/images/membership/cards/
+    - assets/svg/images/exception/
+    - assets/svg/images/exception/no_connection.svg
+    - assets/svg/images/verification/
+    - assets/svg/images/verification/user/
+    - assets/svg/images/verification/userid/
+    - assets/svg/images/verification/others/
+    - assets/svg/icons/drawer/
+    - assets/svg/icons/location/
+    - assets/svg/icons/nav_bar/
+    - assets/svg/icons/logos/
+    - assets/svg/icons/social/
+    - assets/svg/icons/star/
+    - assets/svg/icons/heart/
+    - assets/svg/icons/arrow/
+    - assets/svg/icons/others/
+    - assets/svg/icons/booking/new/
+    - assets/images/others/
+    - assets/svg/icons/booking/
+    - assets/svg/icons/booking/new/
+    - assets/svg/icons/booking/active/
+    - assets/svg/icons/booking/inactive/
+    - assets/svg/icons/booking/other_icons/
+    - assets/svg/icons/booking/other_icons/icons/
+    - assets/samples/
+    - assets/images/icons/red_cross.png
+    - assets/images/logoBg.png
+    - assets/images/others/playing.png
+    - assets/images/others/background.jpg
+    - assets/images/others/email.png
+    - assets/images/others/qr-code.png
+    - assets/images/mask_group.png
+    - assets/images/featured-label.png
+    - assets/images/profile-back.png
+    - assets/images/logos/
+    - assets/images/icons/awesome-heart.png
+    # - assets/images/icons/calendar-check.png
+    # - assets/images/icons/rounded-tick.png
+    # - assets/images/icons/Group-6204.png
+    - assets/images/icons/heart.png
+    - assets/images/icons/arrow-down.png
+    - assets/images/icons/gold-arrow-up.png
+    - assets/images/icons/htp_logo.png
+    - assets/images/icons/calendar.png
+    - assets/images/icons/visibility_off.png
+    - assets/images/icons/help-circle.png
+    # - assets/images/icons/mask_group.png
+    # - assets/images/icons/awesome-clock.png
+    # - assets/images/icons/dollar-sign.png
+    - assets/images/temp/
+#    - assets/images/temp/location/
+#    - assets/images/temp/membership/
+#    - assets/images/temp/membership/solitare1.png
+#    - assets/images/temp/membership/1a.png
+#    - assets/images/temp/membership/2a.png
+#    - assets/images/temp/membership/3a.png
+#    - assets/images/temp/membership/4a.png
+#    - assets/images/temp/membership/5a.png
+    - assets/images/
+    - assets/images/no_name_card/
+
+
+############# New Assets
+    - assets/images/logos/brand_logo.svg
+    - assets/images/logos/brand_logo_side.svg
+    - assets/svg/arrow_splashscreen.svg
+    - assets/splash_video_updated.mp4
+    - assets/splash_video_updated_3s.mp4
+    - assets/splash_video_updated_4s.mp4
+#    - assets/dj.MOV
+#    - assets/splash_video.mp4
+#    - assets/dj_new.mp4
+    - assets/dj_new_e.mp4
+    - assets/svg/icons/dashboard/
+    - assets/images/membership_circles/
+    - assets/svg/icons/membership/
+    - assets/images/membership_circle.png
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  fonts:
+    - family: Manrope
+      fonts: 
+        - asset: assets/fonts/Manrope-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Manrope-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Manrope-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Manrope-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Manrope-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Manrope-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Manrope-SemiBold.ttf
+          weight: 600
+
+    - family: TenorSans
+      fonts: 
+        - asset: assets/fonts/TenorSans-Regular.ttf
+          weight: 400
+
+        
+        
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153.648" height="74.014" viewBox="0 0 153.648 74.014">
+  <g id="Group_341173" data-name="Group 341173" transform="translate(6687.067 2776.358)">
+    <g id="Group_5" data-name="Group 5" transform="translate(-6687.068 -2776.359)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+        <path id="Shape" d="M0,12.948V0H12.948V12.948Z" fill="#e4d4a0"/>
+        <path id="Shape-2" data-name="Shape" d="M0,12.949V0H12.948V12.949Z" transform="translate(0 31.446)" fill="#e4d4a0"/>
+        <path id="Shape-3" data-name="Shape" d="M0,12.948V0H12.948V12.948Z" transform="translate(31.446)" fill="#e4d4a0"/>
+        <path id="Path" d="M9.248,0V11.1H0v3.7H12.948V0Z" transform="translate(31.446 16.648)" fill="#84512f"/>
+        <path id="Path-2" data-name="Path" d="M0,0V9.248H3.7V3.7H9.248V9.248h3.7V0Z" transform="translate(31.446 35.146)" fill="#e4d4a0"/>
+        <path id="Path-3" data-name="Path" d="M0,0V3.7H7.4v9.248h3.7V0Z" transform="translate(16.648)" fill="#84512f"/>
+        <path id="Path-4" data-name="Path" d="M7.4,0V7.4H0V18.5H7.4v9.248h3.7V14.8H3.7V11.1h7.4V3.7h3.7V7.4h3.7V0Z" transform="translate(16.648 16.648)" fill="#e4d4a0"/>
+        <rect id="Rectangle" width="3.7" height="5.549" transform="translate(16.648 38.845)" fill="#84512f"/>
+        <rect id="Rectangle-2" data-name="Rectangle" width="5.549" height="3.699" transform="translate(7.399 24.047)" fill="#84512f"/>
+        <path id="Path-5" data-name="Path" d="M16.648,0V9.249H0v11.1H3.7v-7.4H20.348V0Z" transform="translate(0 7.399)" fill="#84512f"/>
+      </g>
+    </g>
+    <g id="Group_341172" data-name="Group 341172" transform="translate(-6635.727 -2749.344)">
+      <text id="Display_the_QR_at_the_time_of_club_entry" data-name="Display the QR at the time of club entry" transform="translate(10.094 0)" fill="#201b21" font-size="10" font-family="Helvetica" opacity="0.96"><tspan x="0" y="8">Display the </tspan><tspan x="0" y="20">QR at the </tspan><tspan x="0" y="32">time of club </tspan><tspan x="0" y="44">entry</tspan></text>
+      <g id="Group_341171" data-name="Group 341171" transform="translate(0 0)">
+        <circle id="Ellipse_1755" data-name="Ellipse 1755" cx="3.671" cy="3.671" r="3.671" fill="#e4d4a0"/>
+        <path id="Path_461774" data-name="Path 461774" d="M8102.915,307.144l1.251,1.251,2.529-2.529" transform="translate(-8101.119 -303.317)" fill="none" stroke="#84512f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <rect id="Rectangle_184034" data-name="Rectangle 184034" width="102.244" height="9.459" rx="4.729" transform="translate(-6635.663 -2776.053)" fill="#201b21"/>
+    <rect id="Rectangle_184035" data-name="Rectangle 184035" width="33.63" height="6.831" rx="3.416" transform="translate(-6635.663 -2763.442)" fill="#201b21"/>
+  </g>
+</svg>

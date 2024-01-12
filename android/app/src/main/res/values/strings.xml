@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Party.One</string>
+<string name="facebook_app_id">116150301440071</string>
+<string name="fb_login_protocol_scheme">fb1184312962456888</string>
+<string name="facebook_client_token">f18f04a1db7cd34c21e63f10735dfff3</string>
+
+    <string name="freshchat_file_provider_authority">one.party.customer.provider</string>
+
+</resources>

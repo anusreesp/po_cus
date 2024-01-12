@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.059" height="22.059" viewBox="0 0 22.059 22.059">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8d48a"/>
+      <stop offset="1" stop-color="#c7a05c"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-phone-alt" data-name="Icon awesome-phone-alt" d="M21.43,15.588,16.6,13.52a1.034,1.034,0,0,0-1.206.3l-2.137,2.611A15.97,15.97,0,0,1,5.627,8.794L8.238,6.657a1.031,1.031,0,0,0,.3-1.206L6.467.625a1.041,1.041,0,0,0-1.185-.6L.8,1.06A1.034,1.034,0,0,0,0,2.068,19.989,19.989,0,0,0,19.991,22.059a1.034,1.034,0,0,0,1.008-.8l1.034-4.481a1.047,1.047,0,0,0-.6-1.189Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+</svg>

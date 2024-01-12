@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="25" viewBox="0 0 20 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_189995" data-name="Rectangle 189995" width="10" height="25" transform="translate(7495 -14159)" fill="#d3bb8a"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_189996" data-name="Rectangle 189996" width="10" height="25" fill="#d3bb8a"/>
+    </clipPath>
+  </defs>
+  <g id="bell_icon_new_gold" data-name="bell icon new gold" transform="translate(-7495 14159)">
+    <g id="Mask_Group_271038" data-name="Mask Group 271038" clip-path="url(#clip-path)">
+      <g id="notification-solid-badged" transform="translate(7491.299 -14159.41)">
+        <path id="Path_461736" data-name="Path 461736" d="M22.161,44.142a1.728,1.728,0,0,0,1.669-1.475h-3.4a1.728,1.728,0,0,0,1.731,1.475Z" transform="translate(-8.421 -21.274)" fill="#d3bb8a"/>
+        <path id="Path_461737" data-name="Path 461737" d="M23.349,19.42l-.22-.194a9.3,9.3,0,0,1-1.624-1.9,8.172,8.172,0,0,1-.874-3.112v-3.2a7.066,7.066,0,0,0-.1-1.158A4.853,4.853,0,0,1,16.652,5.1V4.693A6.839,6.839,0,0,0,14.5,4.046V3.23a.864.864,0,1,0-1.728,0v.848a7,7,0,0,0-6.018,6.943v3.2a8.172,8.172,0,0,1-.874,3.112,9.318,9.318,0,0,1-1.6,1.9l-.22.194v1.825H23.349Z" transform="translate(0 -0.532)" fill="#d3bb8a"/>
+        <circle id="Ellipse_1735" data-name="Ellipse 1735" cx="3.235" cy="3.235" r="3.235" transform="translate(18.27 1.333)" fill="#d3bb8a"/>
+      </g>
+    </g>
+    <g id="Mask_Group_271039" data-name="Mask Group 271039" transform="translate(7505 -14159)" clip-path="url(#clip-path-2)">
+      <g id="notification-solid-badged-2" data-name="notification-solid-badged" transform="translate(-11.039 0.923)">
+        <path id="Path_462200" data-name="Path 462200" d="M22.1,44.142a1.728,1.728,0,0,1-1.669-1.475h3.4A1.728,1.728,0,0,1,22.1,44.142Z" transform="translate(-11.096 -22.608)" fill="#d3bb8a"/>
+        <path id="Path_462201" data-name="Path 462201" d="M4.067,19.42l.22-.194a9.3,9.3,0,0,0,1.624-1.9,8.172,8.172,0,0,0,.874-3.112v-3.2a7.066,7.066,0,0,1,.1-1.158A4.853,4.853,0,0,0,10.764,5.1V4.693a6.839,6.839,0,0,1,2.148-.647V3.23a.864.864,0,1,1,1.728,0v.848a7,7,0,0,1,6.018,6.943v3.2a8.172,8.172,0,0,0,.874,3.112,9.318,9.318,0,0,0,1.6,1.9l.22.194v1.825H4.067Z" transform="translate(-2.675 -1.865)" fill="#d3bb8a"/>
+        <circle id="Ellipse_2852" data-name="Ellipse 2852" cx="3.235" cy="3.235" r="3.235" transform="translate(0 0)" fill="#d3bb8a"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118.904" height="118.904" viewBox="0 0 118.904 118.904">
+  <g id="qrcode" style="isolation: isolate">
+    <path id="Shape" d="M0,34.68V0H34.68V34.68Z" fill="#c0c8d3"/>
+    <path id="Shape-2" data-name="Shape" d="M0,34.681V0H34.68V34.681Z" transform="translate(0 84.223)" fill="#c0c8d3"/>
+    <path id="Shape-3" data-name="Shape" d="M0,34.68V0H34.68V34.68Z" transform="translate(84.224)" fill="#c0c8d3"/>
+    <path id="Path" d="M24.771,0V29.726H0v9.908H34.68V0Z" transform="translate(84.224 44.589)" fill="#fff"/>
+    <path id="Path-2" data-name="Path" d="M0,0V24.771H9.908V9.908H24.771V24.771H34.68V0Z" transform="translate(84.224 94.134)" fill="#c0c8d3"/>
+    <path id="Path-3" data-name="Path" d="M0,0V9.909H19.817V34.68h9.909V0Z" transform="translate(44.589)" fill="#fff"/>
+    <path id="Path-4" data-name="Path" d="M19.817,0V19.818H0V49.544H19.817V74.315h9.909V39.634H9.909V29.726H29.726V9.909h9.909v9.909h9.908V0Z" transform="translate(44.589 44.589)" fill="#c0c8d3"/>
+    <rect id="Rectangle" width="9.909" height="14.863" transform="translate(44.589 104.041)" fill="#fff"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="14.863" height="9.908" transform="translate(19.817 64.407)" fill="#fff"/>
+    <path id="Path-5" data-name="Path" d="M44.589,0V24.772H0V54.5H9.909V34.681H54.5V0Z" transform="translate(0 19.817)" fill="#fff"/>
+  </g>
+</svg>

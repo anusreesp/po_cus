@@ -1,0 +1,41 @@
+{
+  "clubs":[
+    {
+      "id": 1,
+      "name": "Ice Bar",
+      "location": "Banglore",
+      "distance": "7.21 Km",
+      "rating": 4.7,
+      "imageUrl": "assets/images/temp/club10.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 1,
+      "name": "One Bar",
+      "location": "Banglore",
+      "distance": "7.21 Km",
+      "rating": 4.7,
+      "imageUrl": "assets/images/temp/club11.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 1,
+      "name": "Sanctum Club",
+      "location": "Delhi",
+      "distance": "7.21 Km",
+      "rating": 4.8,
+      "imageUrl": "assets/images/temp/club12.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 1,
+      "name": "Leisure Inn",
+      "location": "Banglore",
+      "distance": "7.21 Km",
+      "rating": 4.7,
+      "imageUrl": "assets/images/temp/club13.jpg",
+      "isFeatured": false
+    }
+  ]
+}
+
